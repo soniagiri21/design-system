@@ -1,0 +1,67 @@
+/*=============================================
+=                   Colors                   =
+=============================================*/
+
+/* brand colors */
+$green: #5ece78;
+$green-light: #9ee280;
+
+/* neutral colors */
+$black: #1d1f22;
+$black-light: #737680;
+
+$gray: #a3a5ad;
+$gray-light: #bebfc4;
+
+$white: #fff;
+$white-dark: #f1f2f3;
+
+/* utility colors */
+$red: #d12727;
+$red-light: #f8dedf;
+
+$blue: #0468db;
+$blue-light: #b4d2f4;
+
+/*=====  End of Section Colors Block  ======*/
+
+/*=============================================
+=                  Typography                   =
+=============================================*/
+
+/**
+ * font family
+ * 1) headings: https://fonts.google.com/specimen/Playfair+Display
+ * 2) body: https://fonts.google.com/specimen/Raleway?query=ralew
+ *
+ */
+
+$playfair: "Playfair Display", serif; // 1
+$raleway: "Raleway", "HelveticaNeue", "Helvetica", sans-serif; // 2
+
+/* font sizes */
+$fs-xs: 0.75rem; // 12px
+$fs-sm: 0.875rem; // 14px
+$fs-base: 1rem; // 16px
+$fs-lg: 1.25rem; // 18px
+$fs-xl: 1.5rem; // 24px
+
+$fs:(
+    xs: 0.75rem, // 12px
+sm: 0.875rem, // 14px
+base: 1rem, // 16px
+lg: 1.25rem, // 18px
+xl: 1.5rem, // 24px
+)
+
+/*=====  End of Typography Block   ======*/
+/*=============================================
+=                   Colors                   =
+=============================================*/
+
+/*=====  End of Section Colors Block  ======*/
+/*=============================================
+=                   Colors                   =
+=============================================*/
+
+/*=====  End of Section Colors Block  ======*/
